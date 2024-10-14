@@ -1,10 +1,30 @@
-[
-    {
-        "name": "网站1",
-        "url": "https://clarityvpn.xyz"
-    },
-    {
-        "name": "网站2",
-        "url": "https://abcd168.icu"
-    }
-]
+{
+    "websites": [
+        {
+            "name": "网站1",
+            "url": "https://clarityvpn.xyz"
+        },
+        {
+            "name": "网站2",
+            "url": "https://abcd168.icu"
+        }
+    ],
+    "plans": [
+        {
+            "plan_id": 1,
+            "content": "Plan 1 content: Basic plan with essential features."
+        },
+        {
+            "plan_id": 2,
+            "content": "Plan 2 content: Standard plan with additional features."
+        },
+        {
+            "plan_id": 3,
+            "content": "Plan 3 content: Premium plan with exclusive access and premium features."
+        },
+        {
+            "plan_id": 4,
+            "content": "Plan 4 content: Ultimate plan offering the fastest speeds and highest security."
+        }
+    ]
+}
